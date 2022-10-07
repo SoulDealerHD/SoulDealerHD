@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SoulDealerHD
+- 👀 I’m interested in coding and playing video games and looking forward to create my own one time
+- 🌱 I’m currently learning c++
+- 📫 Reach me per Email: sdealer155@gmail.com
